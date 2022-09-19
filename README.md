@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/103960690/191045828-1bf9b322-d1f4-477a-97b6-4e4f37624a75.png)
 
-Skills 
+
+Tech Skills 
 ---------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/103960690/191047367-493c8291-531a-4923-bd52-6067f5a458d3.png)
 ![image](https://user-images.githubusercontent.com/103960690/191047211-65051081-73ff-472e-ad9c-c3ef5f4a4897.png)
