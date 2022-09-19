@@ -18,8 +18,6 @@ Hey there 👋
 
 I’m Ketan Srivastawa, a full-stack developer, creative coder and self-proclaimed designer who specializes in front-end and Back-end development. I'm a self-starter and work well independently, but I'm also skilled at working in teams.
 
-Visit:
--[image](https://user-images.githubusercontent.com/103960690/191053042-e46808ee-f376-4263-bd66-eecae0aa9b9a.png)
 
 Interests:
 ---------------------------------------------------------------------------------------------------------------
