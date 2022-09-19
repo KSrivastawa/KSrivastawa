@@ -25,8 +25,5 @@ Tech Skills
 
 Proficiencies
 ----------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/103960690/191049421-450618f6-ad2e-4179-9c63-ef0a292cc6c5.png)
-![image](https://user-images.githubusercontent.com/103960690/191049445-dbad8360-dd25-4deb-a027-93bb80784afa.png)
-![image](https://user-images.githubusercontent.com/103960690/191049479-49679797-a335-4c0b-8b23-dd29f4e285f4.png)
-![image](https://user-images.githubusercontent.com/103960690/191049524-5b607ffd-9aea-4a14-8f03-5580584890e8.png)
+![image](https://user-images.githubusercontent.com/103960690/191050349-41e3aa3e-aa80-4e65-83bb-cc6c51e2d721.png)
 
