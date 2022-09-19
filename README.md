@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/103960690/191052924-2e773ba5-88dc-4d34-8a11-eed9cb7c1b8a.png)
+![image](https://user-images.githubusercontent.com/103960690/191053338-87852cd0-7da0-4616-886c-dfc54b4cd610.png)
 
 ### Hi there Ketan  👋
 
