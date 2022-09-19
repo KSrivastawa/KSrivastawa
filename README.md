@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/103960690/191052924-2e773ba5-88dc-4d34-8a11-eed9cb7c1b8a.png)
+
 ### Hi there Ketan  👋
 
 <!--
@@ -17,6 +19,9 @@ Here are some ideas to get you started:
 Hey there 👋
 
 I’m Ketan Srivastawa, a full-stack developer, creative coder and self-proclaimed designer who specializes in front-end and Back-end development. I'm a self-starter and work well independently, but I'm also skilled at working in teams.
+
+Visit: ![image](https://user-images.githubusercontent.com/103960690/191053042-e46808ee-f376-4263-bd66-eecae0aa9b9a.png)
+
 
 Tech Skills 
 ---------------------------------------------------------------------------------------------------------------
