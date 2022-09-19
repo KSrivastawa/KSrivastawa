@@ -23,8 +23,10 @@ I’m Ketan Srivastawa, a full-stack developer, creative coder and self-proclaim
 Visit: ![image](https://user-images.githubusercontent.com/103960690/191053042-e46808ee-f376-4263-bd66-eecae0aa9b9a.png)
 
 Interests:
-Front end Development
-Data Structures And Algorithms 💻
+---------------------------------------------------------------------------------------------------------------
+- Front end Development
+- Back end Development
+- Data Structures And Algorithms 💻
 
 linkedIn:
 https://www.linkedin.com/in/ksrivastawa
