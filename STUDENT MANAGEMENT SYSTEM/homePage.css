@@ -1,0 +1,115 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: linear-gradient(to right, #99a5e3, #93e8c7);
+}
+
+#navbar{
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-template-rows: 60px;
+    width: 98%;
+    margin: auto;
+    background-color: rgb(240, 205, 205);
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+}
+/* #navbar>div{ 
+     border: 1px solid green; 
+    
+ } */
+
+#home{
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+#batches{
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: repeat(7, 14%);
+    grid-template-rows: 50px;
+    gap: 0.33%;
+    margin: 5px;
+}
+#batches>div{
+    /* border:1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    background-color: antiquewhite;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+#form{
+    /* border: 1px solid orange; */
+    display: grid;
+    grid-template-columns: (1, 100%);
+    grid-template-rows: 40px 40px 40px 40px 40px 50px;
+    gap: 15px;
+    margin: auto;
+    width: 20%;
+    margin-top: 50px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+#form>div{
+    /* border: 1px solid black; */
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+.icon{
+   height: auto;
+   width: 7%; 
+   padding: 10px;
+   color: white;
+   background-color: dodgerblue;
+   text-align: center;
+}
+h1{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: -20px;
+    color: rgb(255, 154, 117);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#name{
+    height: 88%;
+    width: 97%;
+    font-size: 17px;
+    padding: 10px auto;
+}
+#course{
+    height: 100%;
+    width: 100%;
+    font-size: 17px;
+}
+#unit{
+    height: 100%;
+    width: 100%;
+    font-size: 17px;
+}
+#image{
+    height: 88%;
+    width: 97%;
+    font-size: 17px;
+}
+#batch{
+    height: 100%;
+    width: 100%;
+    font-size: 17px;
+}
+#submitBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#submit{ 
+    padding: 5px 10px 5px 10px;
+    font-size: 20px;
+    height: 100%;
+    width: 100%;
+    color: white;
+    background-color: dodgerblue;
+    border: none;
+}

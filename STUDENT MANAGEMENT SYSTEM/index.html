@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Management System</title>
+    <link rel="stylesheet" href="homePage.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+    <div id="navbar">
+        <div id="home">
+            <div>Home</div>
+            <div> <a href="dashBoardPage.html">DashBoard</a></div>
+        </div>
+         <!-- details of batches on Navbar -->
+        <div id="batches">    
+            <div id="FW14">Batch_01 - 0</div>
+            <div id="FW15">Batch_02 - 0</div>
+            <div id="FW16">Batch_03 - 0</div>
+            <div id="FW17">Batch_04 - 0</div>
+            <div id="FW18">Batch_05 - 0</div>
+            <div id="FW19">Batch_06 - 0</div>
+            <div id="total">Total_Students - 0</div>
+        </div>
+    </div>
+
+    <!-- details of submitform data inside input -->
+    <h1>Student Form</h1>
+        <form id="form" onsubmit="submitForm()">
+        <div>
+            <i class="fa fa-user icon"></i>
+            <input type="text" id="name" placeholder="Enter Name">
+        </div>
+        <div>
+            <i class="fa fa-bars icon"></i>
+            <select name="Course" id="course">
+                <option value="none">Select Course</option>
+                <option value="FSWD">FSWD</option>
+                <option value="FRONTEND">FRONTEND</option>
+                <option value="BACKEND">BACKEND</option>
+                <option value="DATA ANALYTICS">DATA ANALYTICS</option>
+            </select>
+        </div>
+        <div>
+            <i class="fa fa-bars icon"></i>
+            <select name="Unit" id="unit">
+                <option value="none">Select Unit</option>
+                <option value="Unit-1">Unit-1</option>
+                <option value="Unit-2">Unit-2</option>
+                <option value="Unit-3">Unit-3</option>
+                <option value="Unit-4">Unit-4</option>
+                <option value="Unit-5">Unit-5</option>
+                <option value="Unit-6">Unit-6</option>
+            </select>
+        </div>
+        <div>
+            <i class="fa fa-image icon"></i>
+            <input type="url" id="image" placeholder="Image Url">
+        </div>
+        <div>
+            <i class="fa fa-bars icon"></i>
+            <select name="Batch" id="batch">
+                <option value="none">Select Batch</option>
+                <option value="FW14">FW14</option>
+                <option value="FW15">FW15</option>
+                <option value="FW16">FW16</option>
+                <option value="FW17">FW17</option>
+                <option value="FW18">FW18</option>
+                <option value="FW19">FW19</option>
+            </select>
+        </div>
+        <div id="submitBox">
+            <input type="submit" value="Submit" id="submit">
+        </div>
+
+        </form>
+
+</body>
+</html>
+
+<script src="homePage.js"></script>

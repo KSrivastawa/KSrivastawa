@@ -1,0 +1,75 @@
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: linear-gradient(to right, #99a5e3, #93e8c7);
+}
+
+#navbar{
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-template-rows: 60px;
+    width: 98%;
+    margin: auto;
+    background-color: rgb(240, 205, 205);
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+}
+/* #navbar>div{ 
+     border: 1px solid green; 
+    
+ } */
+
+#home{
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+#batches{
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: repeat(7, 14%);
+    grid-template-rows: 50px;
+    gap: 0.33%;
+    margin: 5px;
+}
+#batches>div{
+    /* border:1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    background-color: antiquewhite;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+
+table,td,th {
+    border: 1px solid green;
+    text-align: left;
+    font-size: 20px;
+}
+table {
+    border-collapse: collapse;
+    width: 55%;
+    margin: auto;
+    margin-top: 60px;
+}
+th,td {
+    padding: 15px;
+}
+tr>th {
+    background-color: teal;
+    color: white;
+}
+tr>td {
+    background-color: whitesmoke;
+}
+tr>img {
+    height: 100px;
+    width: 100%;
+    padding: 0;
+    margin: auto;
+}
+
+
