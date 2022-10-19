@@ -1,3 +1,4 @@
+Hey there 👋
 ![image](https://user-images.githubusercontent.com/103960690/191053338-87852cd0-7da0-4616-886c-dfc54b4cd610.png)
 
 <!--
@@ -14,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey there 👋
 
-I’m Ketan Srivastawa, a JAVA Backend developer, creative coder and self-proclaimed designer who specializes in front-end and Back-end development. I'm a self-starter and work well independently, but I'm also skilled at working in teams.
+
+A JAVA backend developer, creative coder and self-proclaimed designer who specializes in front-end and Back-end development. I'm a self-starter and work well independently, but I'm also skilled at working in teams.
 
 
 Interests:
