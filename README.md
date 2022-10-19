@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hey there 👋
 
-I’m Ketan Srivastawa, a full-stack developer, creative coder and self-proclaimed designer who specializes in front-end and Back-end development. I'm a self-starter and work well independently, but I'm also skilled at working in teams.
+I’m Ketan Srivastawa, a JAVA Backend developer, creative coder and self-proclaimed designer who specializes in front-end and Back-end development. I'm a self-starter and work well independently, but I'm also skilled at working in teams.
 
 
 Interests:
