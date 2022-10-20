@@ -50,7 +50,7 @@ Proficiencies
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E
-    <img src="https://github-profile-trophy.vercel.app/?username=Dev-faiz&column=7%22/%3E
+    <img src="https://github-profile-trophy.vercel.app/?username=KSrivastawa&column=7%22/%3E
   </a>
 </div>
 
