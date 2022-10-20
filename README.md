@@ -32,6 +32,34 @@ linkedIn:
 Languages:
 -English 🔤
 -Hindi
+-------------------------------------------
+<div align="center">
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E
+    <img src="https://github-profile-trophy.vercel.app/?username=Dev-faiz&column=7%22/%3E
+  </a>
+</div>
+
+---
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BDev-faiz%7D/count.svg" /></p> 
+<br></div>
+
+<p align="center">
+<img align="" height='120px' src="https://github.com/Dev-faiz/Dev-faiz/blob/main/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/dev-faiz/dev-faiz/blob/main/Geometric%20White.gif" />
+</p>
+---------------------------------------------------
+
+## 📊 My Github Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KSrivastawa&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KSrivastawa&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSrivastawa&theme=tokyonight" align="center" />
+</p>
+
+
 
 Tech Skills 
 ---------------------------------------------------------------------------------------------------------------
