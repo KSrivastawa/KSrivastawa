@@ -58,11 +58,11 @@ Proficiencies
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BDev-faiz%7D/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BKSrivastawa%7D/count.svg" /></p> 
 <br></div>
 
 <p align="center">
-<img align="" height='120px' src="https://github.com/Dev-faiz/Dev-faiz/blob/main/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/dev-faiz/dev-faiz/blob/main/Geometric%20White.gif" />
+<img align="" height='120px' src="https://github.com/KSrivastawa/KSrivastawa/blob/main/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/dev-faiz/dev-faiz/blob/main/Geometric%20White.gif" />
 </p>
 ---------------------------------------------------
 
