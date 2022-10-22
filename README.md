@@ -12,7 +12,7 @@ Hey there 👋
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
   
 💬 About me ...<br>
 <ul>
@@ -29,6 +29,8 @@ Hey there 👋
 
 - 📫 How to reach me **ketansri@gmail.com**
 - 👨‍💻 Checkout my Portfolio [KetanSrivastawa](https://ksrivastawa.github.io/)
+- 💻 Checkout my Resume [Ketan_Srivastawa_Resume](https://drive.google.com/file/d/1m4lWQIFOsShE-Y_seN37_ge6VgXWIQ3E/view?usp=sharing))
+ -💻 Checkout my linkedIn: [KetanSrivastawa](https://www.linkedin.com/in/ksrivastawa)
   
 <!--
 **KSrivastawa/KSrivastawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,23 +46,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-
-Interests:
----------------------------------------------------------------------------------------------------------------
-- Front end Development
-- Back end Development
-- Data Structures And Algorithms 💻
-
-linkedIn: 
--https://www.linkedin.com/in/ksrivastawa
-
-Languages:
--English 🔤
--Hindi
 
 ---------------------------------
 Tech Skills 
