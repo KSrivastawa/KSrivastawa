@@ -30,7 +30,8 @@ Hey there 👋
 - 📫 How to reach me **ketansri@gmail.com**
 - 👨‍💻 Checkout my Portfolio [KetanSrivastawa](https://ksrivastawa.github.io/)
 - 💻 Checkout my Resume [Ketan_Srivastawa_Resume](https://drive.google.com/file/d/1m4lWQIFOsShE-Y_seN37_ge6VgXWIQ3E/view?usp=sharing))
- -💻 Checkout my linkedIn: [KetanSrivastawa](https://www.linkedin.com/in/ksrivastawa)
+- 💻 Checkout my linkedIn: [KetanSrivastawa](https://www.linkedin.com/in/ksrivastawa)
+
   
 <!--
 **KSrivastawa/KSrivastawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
