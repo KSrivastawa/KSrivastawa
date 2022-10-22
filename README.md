@@ -27,8 +27,8 @@ Hey there 👋
   <li>Java Back-end Development</li>
 </ul>
 
-- 📫 How to reach me **bobalepallavi@gmail.com**
-- 👨‍💻 Checkout my Portfolio [PallaviBobale](https://pallu27899.github.io/)
+- 📫 How to reach me **ketansri@gmail.com**
+- 👨‍💻 Checkout my Portfolio [KetanSrivastawa](https://ksrivastawa.github.io/)
   
 <!--
 **KSrivastawa/KSrivastawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
