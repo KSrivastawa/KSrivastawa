@@ -14,7 +14,7 @@ Hey there 👋
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
   
-💬 About me ...<br>
+   💬 About me ...<br>
 <ul>
   <li>🌱🌱 I’m currently learning Springboot,Hibernate</li>
 <li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
@@ -26,13 +26,11 @@ Hey there 👋
   <!-- <li>Full-stack Development</li> -->
   <li>Java Back-end Development</li>
 </ul>
+
 - 📫 How to reach me **ketansri@gmail.com**
-  - 📫 How to reach me **ketansri@gmail.com**
-  - 📫 How to reach me **ketansri@gmail.com**
-  - 📫 How to reach me **ketansri@gmail.com**
 - 👨‍💻 Checkout my Portfolio [KetanSrivastawa](https://ksrivastawa.github.io/)
 - 💻 Checkout my Resume [Ketan_Srivastawa_Resume](https://drive.google.com/file/d/1m4lWQIFOsShE-Y_seN37_ge6VgXWIQ3E/view?usp=sharing))
-- 💻 Checkout my linkedIn: [KetanSrivastawa](https://www.linkedin.com/in/ksrivastawa)
+  - 💻 Checkout my linkedIn: [KetanSrivastawa](https://www.linkedin.com/in/ksrivastawa)
 
   
 <!--
