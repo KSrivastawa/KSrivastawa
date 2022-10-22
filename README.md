@@ -16,7 +16,22 @@ Hey there 👋
 
 
 ![image](https://user-images.githubusercontent.com/103960690/191053338-87852cd0-7da0-4616-886c-dfc54b4cd610.png)
+💬 About me ...<br>
+<ul>
+  <li>🌱🌱 I’m currently learning Springboot,Hibernate</li>
+<li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
+<!--   <li>📰 My First Web Page_____________</li> -->
+</ul>
+👯 I’m looking to collaborate on ..
+<ul>
+  <li>Open source Projects</li>
+  <!-- <li>Full-stack Development</li> -->
+  <li>Java Back-end Development</li>
+</ul>
 
+- 📫 How to reach me **bobalepallavi@gmail.com**
+- 👨‍💻 Checkout my Portfolio [PallaviBobale](https://pallu27899.github.io/)
+  
 <!--
 **KSrivastawa/KSrivastawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
