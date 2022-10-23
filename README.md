@@ -1,7 +1,8 @@
 Hey there 👋
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Ketan+Srivastawa!;Java+Back-end+Developer...;" style="width: 100%;">
 
-<img src="Banner.gif">
+![Github_style_Profile1](https://user-images.githubusercontent.com/103960690/197421573-b3b54161-4d54-46db-b291-b86097b051b8.png)(https://i.stack.imgur.com/oQ0tF.gif)
+
 
 
 
