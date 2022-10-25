@@ -1,33 +1,30 @@
-Hey there 👋
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Ketan+Srivastawa!;Java+Back-end+Developer...;" style="width: 100%;">
+<img width="250" align="right" src ="https://user-images.githubusercontent.com/103960690/197424420-143f2d37-3841-4423-afc7-f963dca7d7fc.png" >
 
-![Github_style_Profile1](https://user-images.githubusercontent.com/103960690/197424420-143f2d37-3841-4423-afc7-f963dca7d7fc.png)
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Ketan+Srivastawa!;Java+Back-end+Developer...;" style="width: 70%;">
+
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F77312&multiline=true&width=700&height=130&align=right&lines=Creative+coder+and+self-proclaimed+designer;who+specializes+in+Back-end+development.+;I'm+a+self-starter+and+work+well+independently%2C+but+;I'm+also+skilled+at+working+in+teams.)](https://git.io/typing-svg)
 
 
 
-<h3 align="center" dir="auto"><a id="user-content-a-passionate-java-back-end-developer-dedicated-to-developing-robust-applications-that-interact-with-the-backend-part-of-web-applications-extensive-expertise-in-website-architecture-design-and-web-design-and-web-api-designs-problem-solving-mindset-with-a-goal-to-optimize-my-application-for-better-stability-and-speed-love-to-work-in-a-team" class="anchor" aria-hidden="true" href="#a-passionate-java-back-end-developer-dedicated-to-developing-robust-applications-that-interact-with-the-backend-part-of-web-applications-extensive-expertise-in-website-architecture-design-and-web-design-and-web-api-designs-problem-solving-mindset-with-a-goal-to-optimize-my-application-for-better-stability-and-speed-love-to-work-in-a-team"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
+<h3 align="center" dir="auto"><a id="user-content-a-passionate-java-back-end-developer-dedicated-to-developing-robust-applications-that-interact-with-the-backend-part-of-web-applications-extensive-expertise-in-website-architecture-design-and-web-design-and-web-api-designs-problem-solving-mindset-with-a-goal-to-optimize-my-application-for-better-stability-and-speed-love-to-work-in-a-team" class="anchor" aria-hidden="true" href="#a-passionate-java-back-end-developer-dedicated-to-developing-robust-applications-that-interact-with-the-backend-part-of-web-applications-extensive-expertise-in-website-architecture-design-and-web-design-and-web-api-designs-problem-solving-mindset-with-a-goal-to-optimize-my-application-for-better-stability-and-speed-love-to-work-in-a-team"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a></h3>
 
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
   
- 
- 💬 About me ...<br>
-<ul>
-  <li>🌱🌱 I’m currently learning Springboot,Hibernate</li>
-<li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
-<!--   <li>📰 My First Web Page_____________</li> -->
-</ul>
-👯 I’m looking to collaborate on ..
-<ul>
-  <li>Open source Projects</li>
-  <!-- <li>Full-stack Development</li> -->
-  <li>Java Back-end Development</li>
-</ul>
+ 💬 <b>About me ...</b><br>
+- 🌱🌱 I’m currently learning Springboot,Hibernate
+- 🔭 I’m looking to collaborate with any Web Devlopment projects
+- 📰 My First Web Page_____________
+- 👯 I’m looking to collaborate on:
+> Open source Projects <br>
+> Full-stack Development <br>
+> Java Back-end Development <br>
+
 
 - 📫 How to reach me **kt.ketansri@gmail.com**
 - 👨‍💻 Checkout my Portfolio [Ketan Srivastawa](https://KSrivastawa.github.io/)
