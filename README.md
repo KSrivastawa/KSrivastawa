@@ -5,7 +5,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F77312&multiline=true&width=700&height=130&align=right&lines=Creative+coder+and+self-proclaimed+designer;who+specializes+in+Back-end+development.+;I'm+a+self-starter+and+work+well+independently%2C+but+;I'm+also+skilled+at+working+in+teams.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F77312&multiline=true&width=600&height=130&align=right&lines=Creative+coder+and+self-proclaimed+designer;who+specializes+in+Back-end+development.+;I'm+a+self-starter+and+work+well+independently%2C+but+;I'm+also+skilled+at+working+in+teams.)](https://git.io/typing-svg)
 
 
 
