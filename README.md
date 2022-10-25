@@ -1,11 +1,11 @@
-<img width="250" align="right" src ="https://user-images.githubusercontent.com/103960690/197424420-143f2d37-3841-4423-afc7-f963dca7d7fc.png" >
+<img style="width: 25%" align="right" src ="https://user-images.githubusercontent.com/103960690/197424420-143f2d37-3841-4423-afc7-f963dca7d7fc.png" >
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Ketan+Srivastawa!;Java+Back-end+Developer...;" style="width: 60%;">
-
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Ketan+Srivastawa!;Java+Back-end+Developer...;" style="width: 72%;">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F77312&multiline=true&width=700&height=130&align=right&lines=Creative+coder+and+self-proclaimed+designer;who+specializes+in+Back-end+development.+;I'm+a+self-starter+and+work+well+independently%2C+but+;I'm+also+skilled+at+working+in+teams.)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F77312&multiline=true&width=700&height=130&align=right&lines=Creative+coder+and+self-proclaimed+designer;who+specializes+in+Back-end+development.+;I'm+a+self-starter+and+work+well+independently%2C+but+;I'm+also+skilled+at+working+in+teams.)](https://git.io/typing-svg)
 
 
 
