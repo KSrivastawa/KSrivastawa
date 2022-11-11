@@ -28,6 +28,7 @@
 
 - 📫 How to reach me **kt.ketansri@gmail.com**
 - 👨‍💻 Checkout my Portfolio [Ketan Srivastawa](https://KSrivastawa.github.io/)
+- 👨‍💻 Checkout my Portfolio [Ketan Srivastawa](https://KSrivastawa.github.io/)
 - 💻 Checkout my Resume [Ketan_Srivastawa_Resume](https://drive.google.com/file/d/1m4lWQIFOsShE-Y_seN37_ge6VgXWIQ3E/view?usp=sharing)
 
   
