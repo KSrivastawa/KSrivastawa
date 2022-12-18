@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
   
  💬 <b>About me ...</b><br>
-- 🌱🌱 I’m currently learning Springboot,Hibernate
+- 🌱🌱 I’m currently learning SpringSecurity and AWS cloud
 - 🔭 I’m looking to collaborate with any Web Devlopment projects
 - 📰 My First Web Page_____________
 - 👯 I’m looking to collaborate on:
