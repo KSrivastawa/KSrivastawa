@@ -49,9 +49,12 @@ Here are some ideas to get you started:
 -------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ksrivastawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ksrivastawa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Ketan_Srivastawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Ketan_Srivastawa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/KetanSrivastawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="KetanSrivastawa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ksrivastawa" target="blank"><img align="center" src="https://user-images.githubusercontent.com/103960690/208301542-9198963f-d1dc-4825-9e41-ad74c579eb71.png" alt="ksrivastawa" height="30" width="40" /></a>
+  
+<a href="https://www.hackerrank.com/Ketan_Srivastawa" target="blank"><img align="center" src="https://user-images.githubusercontent.com/103960690/208301562-dca33175-5e5c-45e5-ac90-8ac2a5096f8a.png" alt="Ketan_Srivastawa" height="30" width="40" /></a>
+  
+<a href="https://www.leetcode.com/KetanSrivastawa" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="KetanSrivastawa" height="30" width="40" /></a>
+
 
 
 <h1 align="left">Tech Stack:</h1>
