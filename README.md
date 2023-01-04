@@ -71,14 +71,6 @@ Proficiencies
 ![image](https://user-images.githubusercontent.com/103960690/191050349-41e3aa3e-aa80-4e65-83bb-cc6c51e2d721.png)
 
 -------------------------------------------
-<div align="center">
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E
-    <img src="https://github-profile-trophy.vercel.app/?username=KSrivastawa&column=7%22/%3E
-  </a>
-</div>
-
----
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
@@ -88,7 +80,7 @@ Proficiencies
 <p align="center">
 <img align="" height='120px' src="https://github.com/KSrivastawa/KSrivastawa/blob/main/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/dev-faiz/dev-faiz/blob/main/Geometric%20White.gif" />
 </p>
----------------------------------------------------
+
 
 ## 📊 My Github Stats
 <p align="center">
@@ -97,5 +89,17 @@ Proficiencies
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSrivastawa&theme=tokyonight" align="center" />
 </p>
 
+<hr>
+<p align="center">
+  <i>Ask me anything I'am Happy to Help! </i>
+  <br><br>
+<a target="_blank" href="https://linkedin.com/in/ksrivastawa"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:kt.ketansri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</a>
+<br>
+</p>
+
+                                                                                                                       
+                                                                                                                       
 
 
